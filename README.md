@@ -22,7 +22,7 @@ HTML | CSS - Projeto de website voltado para cursos de beleza com: fotos, vídeo
    </figure>
  <figure>
    <img src="https://raw.githubusercontent.com/sbr-rodrigues/MorangoRomanov/refs/heads/main/Morango%20-%202.png" alt="Vídeo"></a>
-    <figcaption>Vídeo flutuante e termo e condição</figcaption>
+    <figcaption>Vídeo flutuante</figcaption>
       </figure>
        <figure>
    <img src="https://raw.githubusercontent.com/sbr-rodrigues/MorangoRomanov/refs/heads/main/Morango%20-%203.png" alt="Enquete"></a>
