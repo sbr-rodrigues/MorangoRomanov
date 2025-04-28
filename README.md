@@ -18,15 +18,15 @@ HTML | CSS - Projeto de website voltado para cursos de beleza com: fotos, vídeo
           <p>As imagens que compõem o projeto</p>
   <figure>
 <img src="https://raw.githubusercontent.com/sbr-rodrigues/MorangoRomanov/refs/heads/main/Morango%20-%201.png" alt="Página inicial "></a>
-<figcaption>Página "Dicas da Afrodite"</figcaption>
+<figcaption>Página "Morangos Romanov"</figcaption>
    </figure>
  <figure>
    <img src="https://raw.githubusercontent.com/sbr-rodrigues/MorangoRomanov/refs/heads/main/Morango%20-%202.png" alt="Vídeo"></a>
-    <figcaption>Formulário com vários campos iterativos</figcaption>
+    <figcaption>Vídeo flutuante e termo e condição</figcaption>
       </figure>
        <figure>
    <img src="https://raw.githubusercontent.com/sbr-rodrigues/MorangoRomanov/refs/heads/main/Morango%20-%203.png" alt="Enquete"></a>
-    <figcaption>Vídeo flutuante e termo e condição</figcaption>
+    <figcaption>Formulário com vários campos iterativos</figcaption>
       </figure>
      </body>
     </html>
