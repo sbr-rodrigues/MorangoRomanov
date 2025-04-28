@@ -17,15 +17,15 @@ HTML | CSS - Projeto de website voltado para cursos de beleza com: fotos, vídeo
         <h2>Imagens do projetos</h2>
           <p>As imagens que compõem o projeto</p>
   <figure>
-<img src="https://raw.githubusercontent.com/sbr-rodrigues/Website-de-beleza/refs/heads/main/Portif%C3%B3lio%20-%20Beleza%20(1).png" alt="Página inicial "></a>
+<img src="https://raw.githubusercontent.com/sbr-rodrigues/MorangoRomanov/refs/heads/main/Morango%20-%201.png" alt="Página inicial "></a>
 <figcaption>Página "Dicas da Afrodite"</figcaption>
    </figure>
  <figure>
-   <img src="https://raw.githubusercontent.com/sbr-rodrigues/Website-de-beleza/refs/heads/main/Portif%C3%B3lio%20-%20Beleza%20(2).png" alt="Vídeo"></a>
+   <img src="https://raw.githubusercontent.com/sbr-rodrigues/MorangoRomanov/refs/heads/main/Morango%20-%202.png" alt="Vídeo"></a>
     <figcaption>Formulário com vários campos iterativos</figcaption>
       </figure>
        <figure>
-   <img src="https://raw.githubusercontent.com/sbr-rodrigues/Website-de-beleza/refs/heads/main/Portif%C3%B3lio%20-%20Beleza%20(3).png" alt="Enquete"></a>
+   <img src="https://raw.githubusercontent.com/sbr-rodrigues/MorangoRomanov/refs/heads/main/Morango%20-%203.png" alt="Enquete"></a>
     <figcaption>Vídeo flutuante e termo e condição</figcaption>
       </figure>
      </body>
