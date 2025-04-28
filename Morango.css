@@ -7,11 +7,36 @@ body {
   font-family: Tahoma;
   padding: 20px;
   background-image: url(https://blog.plantei.com.br/wp-content/uploads/2015/08/capa-morango.jpg);
+  }
+
+.menu {
+  width: 80%;
+  background-color:#f2d2cf;
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 800px;
+}
+hr {
+  height: 2px;
+  background-color: #deb887;
+  border-color: brown;
 }
 
 h1,h2, p {
   margin: 1em auto;
   text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 30px;
 }
 
 .established {
@@ -22,15 +47,6 @@ h1,h2, p {
   padding: 20px;
 }
 
-.menu {
-  width: 80%;
-  background-color:#f2d2cf;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 20px;
-  max-width: 800px;
-}
-
 img {
   width: 10%;
   height: auto;
@@ -39,26 +55,16 @@ img {
   margin-right: auto;
 }
 
+.margem-direita {
+  float: right;
+  margin-left: 10px; /* Ajuste o espaço à esquerda da imagem */
+  width: 300px;
+}
+
 video {
-  width: 150px;
+  width: 300px;
   margin-left: 20px; /* Espaço entre o vídeo e o texto */
   float: right; /* Move o vídeo para a margem direita */
-}
-
-.image-container {
-  display: flex;
-  justify-content: spacespace-between; /* Alinha as imagens com espaço ao redor */
-}
-
-.image-container img {
-  width: 30%; /* Ajusta o tamanho das imagens */
-  margin: 5px;
-}
-
-hr {
-  height: 2px;
-  background-color: #deb887;
-  border-color: brown;
 }
 
 form {
@@ -77,9 +83,10 @@ fieldset {
 fieldset:last-of-type {
   border-bottom: none;
 }
+
 label {
   display: block;
-  margin: 0.5rem 0;
+  margin: 30px;
 }
 
 input, textarea, select {
